@@ -21,7 +21,7 @@ class ArticlesController < ApplicationController
 
   # add edit and update methods here
 
-  def new
+  def edit
   end
 
   def update
